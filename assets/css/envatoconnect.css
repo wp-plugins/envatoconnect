@@ -1,0 +1,142 @@
+#envatoconnect {
+	position: relative;	
+}
+#envatoconnect .envatoconnect_button {
+	display: block;
+	height: 25px;
+	width: 146px;
+	text-indent: -999em;
+	margin-bottom: 15px;
+	background: url(../img/envato_connect_button.png) no-repeat left top;
+}
+
+/* OVERLAY STYLES
+------------------------------------- */
+#envatoconnect_wrap {
+	width: 600px;
+}
+#envatoconnect_wrap .envatoconnect_heading {
+	font-size: 22px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: #444;
+	margin-bottom: 20px;	
+}
+#envatoconnect_wrap .envatoconnect_heading.login {
+	border-bottom: solid 1px #eaeaea;
+	padding-bottom: 5px;	
+}
+#envatoconnect_wrap .envatoconnect_signup .envatoconnect_heading {
+	font-size: 18px;
+	font-style: normal;	
+}
+
+
+/* FORMS */
+#envatoconnect_wrap .envatoconnect_login_form {
+	width: 320px;
+	margin-right: 30px;
+	float: left;	
+}
+#envatoconnect_wrap .envatoconnect_signup {
+	width: 210px;
+	padding: 20px;
+	float: left;
+	background: #ecffc3;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+} 
+body #envatoconnect_wrap form {
+	display: inline;
+	border: none;
+	padding: 0;
+	margin: 0;	
+}
+#envatoconnect_wrap form .envatoconnect_form_wrap {
+	list-style: none outside;
+	padding: 0;	
+	margin: 0;
+}
+#envatoconnect_wrap form .envatoconnect_form_wrap.loading {
+	display: block;
+	background: url(../img/loader.gif) no-repeat center;	
+}
+#envatoconnect_wrap form label {
+	display: block;
+	margin-bottom: 5px;	
+	font-family: Arial, Helvetica, sans-serif;
+}
+#envatoconnect_wrap form .envatoconnect_text,
+#envatoconnect_wrap form .envatoconnect_select {
+	width: 240px;
+	display: block;
+	padding: 5px 7px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	background: #f7f7f7;
+	border: solid 1px #ddd;
+	margin-bottom: 15px;
+}
+#envatoconnect_wrap form #envatoconnect_marketplace {
+	width: 210px;
+	background: #fff;
+	font-size: 16px;	
+}
+#envatoconnect_wrap form .envatoconnect_text:focus,
+#envatoconnect_wrap form #envatoconnect_marketplace:focus {
+	outline: none;	
+}
+#envatoconnect_wrap form #envatoconnect_login,
+#envatoconnect_wrap form #envatoconnect_signup {
+	padding: 8px 10px;
+	background: #8bbc24;
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform: capitalize;	
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	font-weight: bold;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+}
+#envatoconnect_wrap form .envatoconnect_text.error {
+	border-color: #F30;	
+}
+#envatoconnect_wrap form #envatoconnect_login:hover,
+#envatoconnect_wrap form #envatoconnect_signup:hover {
+	background: #70971e;
+}
+.envatoconnect_form_error,
+.envatoconnect_form_success {
+	display: block;
+	background: #ffc9c9;
+	padding: 10px;
+	margin-bottom: 15px;	
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #444;
+}
+.envatoconnect_form_success {
+	background: #caff9f;	
+}
+em.desc {
+	display: block;
+	padding-top: 5px;
+	font-size: 11px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	font-weight: normal;	
+}
+.pbea {
+	display: block;
+	height: 19px;
+	background: url(../img/pbea.png) no-repeat center 10px;
+	padding-top: 10px;
+	margin-top: 25px;
+	border-top: solid 1px #ddd;
+}
