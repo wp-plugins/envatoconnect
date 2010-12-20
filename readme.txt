@@ -34,8 +34,8 @@ Not yet, but as soon as we find one, we'll list it here.
 
 == Screenshots ==
 
-1. Connect with Envato button (dynamically placed!) (1_button.jpg)
-2. Connect with Envato login overlay (1_overlay.jpg)
+1. Connect with Envato button (dynamically placed!) (/tags/1.0/1_button.jpg)
+2. Connect with Envato login overlay (/tags/1.0/1_overlay.jpg)
 
 == Changelog ==
 
