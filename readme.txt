@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: Envato, Login, API, Connect
 Requires at least: 3.0
 Tested up to: 3.0.3
-Stable tag: trunk
+Stable tag: 1.0
 
 Let Envato Marketplace's users connect to your WordPress site using their valid Envato account username and API key.
 
@@ -34,8 +34,8 @@ Not yet, but as soon as we find one, we'll list it here.
 
 == Screenshots ==
 
-1. Connect with Envato button (dynamically placed!) 1_button.(jpg)
-2. Connect with Envato login overlay 1_overlay.(jpg)
+1. Connect with Envato button (dynamically placed!) (1_button.jpg)
+2. Connect with Envato login overlay (1_overlay.jpg)
 
 == Changelog ==
 
